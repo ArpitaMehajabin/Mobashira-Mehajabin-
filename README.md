@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mobashira Mehajabin</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a B.Sc. Engineering student specializing in IoT (Internet of Things) and Robotics at the University of Frontier Technology, Bangladesh (UFTB).</h3>
+<h3 align="center">B.Sc. Engineering student in IoT and Robotics at the University of Frontier Technology, Bangladesh (UFTB).</h3>
 
 - 🌱 I'm currently learning **Machine Learning and AI**
 - 👁️ Working on Computer Vision, Object Detection, and Image Classification
